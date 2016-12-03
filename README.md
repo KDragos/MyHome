@@ -1,4 +1,4 @@
-My Mome by Kristin Dragos
+My Home by Kristin Dragos
 
 My second project for Udacity's Virtual Reality Nanodegree. 
 
